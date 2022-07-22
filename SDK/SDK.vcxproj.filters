@@ -7,11 +7,11 @@
     <Filter Include="System\Console">
       <UniqueIdentifier>{a2006149-a18f-4d2e-b6b4-18a9ae854bb8}</UniqueIdentifier>
     </Filter>
-    <Filter Include="System\Direct3D">
-      <UniqueIdentifier>{0591d60f-c13d-4a77-837e-ba01e75c559a}</UniqueIdentifier>
-    </Filter>
     <Filter Include="System\Window">
       <UniqueIdentifier>{dda41f4e-b2e5-4ccf-8cf5-9d5fcb35e1d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Direct3D11">
+      <UniqueIdentifier>{0591d60f-c13d-4a77-837e-ba01e75c559a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
